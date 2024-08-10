@@ -1,7 +1,6 @@
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 115%;
-    background-color: #efefef; 
 }
     header {
         background-color: hsl(208, 65%, 86%); 
@@ -38,12 +37,8 @@ body {
         color: white;
         position: absolute;
         bottom: 0;
+        bottom: 0;
         width: 100%;
-    }
-    
-    li {
-        display: inline; 
-        width: auto; 
     }
     
     h1 {
